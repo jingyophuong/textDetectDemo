@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055299310169",
+    "firebase_url": "https://textrecognition-bec23.firebaseio.com",
+    "project_id": "textrecognition-bec23",
+    "storage_bucket": "textrecognition-bec23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055299310169:android:16bf9286a8d0323795d748",
+        "android_client_info": {
+          "package_name": "com.htwberlin.textRe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055299310169-feir2n5be2khg5g3qfdn3punejrjvsra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDheXfyN_4A22JahtUEKMxi31pHSj9-gOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055299310169-feir2n5be2khg5g3qfdn3punejrjvsra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
