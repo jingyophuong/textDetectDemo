@@ -121,6 +121,7 @@ class _MyAppState extends State<MyApp> {
       {
         completer.complete(Size(info.image.width.toDouble(), info.image.height.toDouble()));
       }));
+    return completer.future;
   }
 }
 
